@@ -15,7 +15,7 @@ export default class SearchBar extends React.Component{
     }
     render(){
         return (
-            <form>k
+            <form>
              <div className="form-group">
                 <label htmlFor="search-input" className="col-2 col-form-label">Search</label>
                 <div className="col-10">
